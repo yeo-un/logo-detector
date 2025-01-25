@@ -1,17 +1,18 @@
 # logo-detector
 YOLOv2를 사용한 브랜드 로고 검출 프로그램
+
 ![Image](https://github.com/user-attachments/assets/97a03654-debf-47aa-b9a3-4663b115cb2c)
 
-#### 개발환경
+### 개발환경
 CUDA 10.0, cuDNN, python3.7, Tensorflow 1.15.0, JAVA, eclipse
 
-#### 팀원
+### 팀원
 3명
 
-#### 학습률
+### 학습률
 약 88%
 
-#### 실행화면
+### 실행화면
 <img width="790" alt="Image" src="https://github.com/user-attachments/assets/e2fd4552-5827-4280-9b7b-fc4530fe1547" />
 
 #### 주의사항
